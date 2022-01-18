@@ -33,7 +33,7 @@ header {
   color: #8ecae2;
 }
 section {
-  padding: 70px 100px;
+  padding: 60px 100px;
 }
 .main {
   width: 100%;
@@ -198,4 +198,7 @@ section {
 .footer .social-icons a {
   font-size: 1.3em;
   padding: 0 12px 0 0;
+}
+.fa.fa-heart {
+  color: #3a6cf4;
 }
