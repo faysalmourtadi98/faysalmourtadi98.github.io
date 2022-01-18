@@ -41,10 +41,9 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-color: #000018;
-  /* background: url(img/background.jpeg) no-repeat;
+  background: url(img/background.jpeg) no-repeat;
   background-size: cover;
-  background-position: center; */
+  background-position: center;
 }
 .main h2 {
   color: #edf2fc;
